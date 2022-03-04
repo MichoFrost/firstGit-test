@@ -1,5 +1,5 @@
 
-
+console.log('PokeTEST!');
 
 fetch('https://pokeapi.co/api/v2/pokemon')
     .then(function(response){
